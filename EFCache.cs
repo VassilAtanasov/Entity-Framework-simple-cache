@@ -23,6 +23,7 @@ namespace Eq.Data
             set
             {
                 _Tables = value;
+var i++;
                 Refresh();
             }
         }
